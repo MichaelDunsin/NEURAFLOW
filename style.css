@@ -114,7 +114,7 @@
   height: 20px;
   position: relative;
   cursor: pointer;
-  display: flex;
+  display: none;
   flex-direction: column;
   justify-content: space-between;
 }
@@ -704,6 +704,10 @@
    body {
         font-size: 0.9rem;
       }
+
+ .hamburger {
+  display: flex;
+ }
 
       .section-title {
         font-size: 2rem;
