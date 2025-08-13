@@ -38,7 +38,7 @@
       const demoFeatures = [
         {
           title: "Natural Language Commands",
-          description: "Just type or speak what you need. NeuraNest understands context and executes complex workflows with simple commands.",
+          description: "Just type or speak what you need. NeuraFlow understands context and executes complex workflows with simple commands.",
           command: "Create a new project called 'Mobile App Redesign' with Sarah, Mike, and Lisa"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
           title: "Smart Task Automation",
-          description: "Let AI handle routine work like status updates, follow-ups, and progress tracking. Focus on what matters most while NeuraNest manages the details.",
+          description: "Let AI handle routine work like status updates, follow-ups, and progress tracking. Focus on what matters most while NeuraFlow manages the details.",
           command: "Sending weekly progress report to stakeholders... Done!"
         },
         {
@@ -134,7 +134,7 @@
             <div style="font-size: 2rem; margin-bottom: 16px;">🎉</div>
             <h3 style="color: white; margin-bottom: 8px;">Welcome to the Future!</h3>
             <p style="color: #ccc;">
-              Thanks for joining! We'll notify you as soon as NeuraNest is ready for beta testing.
+              Thanks for joining! We'll notify you as soon as NeuraFlow is ready for beta testing.
             </p>
           </div>
         `;
